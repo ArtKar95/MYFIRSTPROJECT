@@ -1,0 +1,15 @@
+.userPhoto {
+  width: 100px;
+  height: 100px;
+}
+
+.paginator {
+  cursor: pointer;
+}
+
+.button {
+  font-weight: bolder;
+  color: red;
+  border: 1px solid red;
+  cursor: pointer;
+}

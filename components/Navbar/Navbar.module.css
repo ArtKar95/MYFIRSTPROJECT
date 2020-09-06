@@ -1,0 +1,18 @@
+.nav {
+  grid-area: n;
+  background-color: rgb(211, 168, 247);
+  padding: 20px;
+}
+.item{
+    padding: 5px;
+}
+.item a {
+  color: white;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.item a.activeLink {
+  color: rgb(32, 32, 30);
+}

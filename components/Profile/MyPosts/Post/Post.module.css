@@ -1,0 +1,10 @@
+.item {
+  color: rgb(47, 48, 45);
+  font-weight: 700;
+}
+
+.item img {
+  width: 150px;
+  height: 150px;
+  border-radius: 80px;
+}
